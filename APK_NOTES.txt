@@ -1,0 +1,4 @@
+Note about previous APK:
+- I cannot access past uploaded APKs from previous sessions in this chat environment.
+- To reproduce the exact previous APK I need the project source + firebase config + keystore (or you sign locally).
+- Upload the project ZIP and keystore here and I will build and return the APK file.
